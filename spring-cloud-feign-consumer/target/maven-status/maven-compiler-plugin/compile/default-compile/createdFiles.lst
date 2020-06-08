@@ -1,0 +1,4 @@
+com\itsz\spring\cloud\feign\consumer\controller\ConsumerHelloController.class
+com\itsz\spring\cloud\feign\consumer\boot\FeignConsumerBootApplication.class
+com\itsz\spring\cloud\feign\consumer\feign\HystrixHelloServiceFallback.class
+com\itsz\spring\cloud\feign\consumer\feign\HelloFeignService.class
